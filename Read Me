@@ -3,3 +3,8 @@ Solution in Solution.js is for following question :
 Requirement :
 Write some code, that will flatten an array of arbitrarily nested arrays of integers into a flat array of integers. e.g. [[1,2,[3]],4] -> [1,2,3,4]. 
 
+About the solution : 
+    It is written in javascript 
+    To run need to install node and 
+    In the directory open the terminal and run "node solution.js"
+
